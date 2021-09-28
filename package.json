@@ -1,6 +1,6 @@
 {
   "name": "@paydefi/core",
-  "version": "1.4.2",
+  "version": "1.0.3",
   "license": "MIT",
   "types": "./types/index.ts",
   "description": "Core contracts for the PayDefi protocol",
